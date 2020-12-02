@@ -1,0 +1,21 @@
+[debug] [2020-10-19T10:59:51.415Z] ----------------------------------------------------------------------
+[debug] [2020-10-19T10:59:51.418Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\rijal\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-10-19T10:59:51.419Z] CLI Version:   8.12.1
+[debug] [2020-10-19T10:59:51.419Z] Platform:      win32
+[debug] [2020-10-19T10:59:51.419Z] Node Version:  v12.18.3
+[debug] [2020-10-19T10:59:51.421Z] Time:          Mon Oct 19 2020 21:59:51 GMT+1100 (Australian Eastern Daylight Time)
+[debug] [2020-10-19T10:59:51.421Z] ----------------------------------------------------------------------
+[debug] [2020-10-19T10:59:51.421Z] 
+[debug] [2020-10-19T10:59:51.439Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-19T10:59:51.440Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Big-Projects\Clonings\chat
+
